@@ -1,0 +1,48 @@
+# Wayland
+
+# X11
+openbox # stacking WM
+
+# status bar
+# system tray
+
+dunst # notifications, supports both X11 and Wayland
+
+libreoffice-fresh # Microsoft Office alternative
+# calculator
+# lockscreen
+# screen locker
+# login manager
+# audio
+vlc # media player
+deadbeef # music player (AUR)
+# image viewer
+audacity # audio editor
+lxappearance-gtk3 # GTK 2/3 theme editor
+kitty # terminal emulator
+tmux # terminal multiplexer
+xplr # TUI file manager
+pcmanfm # file manager
+peazip-gtk2-bin # file archiver (AUR)
+# emoji picker
+# color picker
+# screenshot
+font-manager # font manager
+refind # boot manager
+informant # block pacman updates if you have unread arch news (AUR)
+wine # run Windows programs (multilib)
+# web browser
+# PDF viewer
+# PDF editor (for filling out forms, signing)
+# MS Paint alternative
+# Image editor
+darktable # edit RAW images
+digikam # photo management
+# connect Android phone to computer
+# WiFi manager
+# Bluetooth manager
+paru # AUR helper (AUR)
+# network analyzer (wireshark?)
+# password manager
+# TOTP manager (otpclient (AUR)?)
+lazygit # git TUI

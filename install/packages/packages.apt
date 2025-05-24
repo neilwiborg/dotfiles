@@ -1,0 +1,8 @@
+exa # this might be replaced with eza now?
+fd-find
+ripgrep
+fzf
+neovim
+zoxide
+zsh
+
