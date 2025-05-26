@@ -1,0 +1,5 @@
+alias vi="nvim"
+alias vim="nvim"
+alias ls="eza"
+alias reload="source $HOME/.zshenv && source $ZDOTDIR/.zshrc"
+alias editzsh="$EDITOR $ZDOTDIR && reload"
