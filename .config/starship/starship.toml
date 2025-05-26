@@ -1,0 +1,23 @@
+add_newline = false
+
+format = """\
+$shell\
+$git_branch\
+$git_status\
+$java\
+$python\
+$directory\
+[❯](bold green)"""
+
+[character]
+success_symbol = "[❯](bold green)"
+error_symbol = "[✗](bold red)"
+
+[shell]
+disabled = false
+fish_indicator = "[](bold yellow)"
+zsh_indicator = "[⚡](purple)"
+
+[directory]
+format = "[$path]($style)[$read_only]($read_only_style)"
+
