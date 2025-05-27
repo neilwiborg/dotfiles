@@ -88,7 +88,8 @@ require 'indent_blankline'.setup{}
 -- Comment.nvim
 require 'Comment'.setup{}
 
--- vimsence
+-- presence
+require 'presence'
 
 -- rainbow
 vim.cmd('let g:rainbow_active = 1')

@@ -137,7 +137,7 @@ return require('packer').startup(function(use)
   use 'numToStr/Comment.nvim'
 
   -- Discord rich presence
-  use 'vimsence/vimsence'
+  use 'andweeb/presence.nvim'
 
   -- color parentheses
   use 'luochen1990/rainbow'
