@@ -1,23 +1,25 @@
+"$schema" = "https://starship.rs/config-schema.json"
+
 add_newline = false
 
 format = """\
 $shell\
 $git_branch\
 $git_status\
-$java\
-$python\
+$git_state\
 $directory\
-[❯](bold green)"""
+$character"""
 
 [character]
+format = "$symbol"
 success_symbol = "[❯](bold green)"
-error_symbol = "[✗](bold red)"
+error_symbol = "[❯](bold red)"
 
 [shell]
 disabled = false
-fish_indicator = "[](bold yellow)"
-zsh_indicator = "[⚡](purple)"
+fish_indicator = "[󰈺](bold yellow)"
+zsh_indicator = "[󱐋](purple)"
+powershell_indicator = "[󰚥](bold blue)"
 
 [directory]
-format = "[$path]($style)[$read_only]($read_only_style)"
-
+format = "[$path]($style)$read_only"
