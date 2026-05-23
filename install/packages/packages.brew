@@ -1,0 +1,30 @@
+bbedit # better notepad editor
+gimp # image editor
+obsidian # notes
+zoxide
+tmux
+starship
+sevenzip
+neovim
+lazygit
+k9s
+jq
+git
+git-delta
+gh
+fzf
+fd
+eza
+bat
+ripgrep
+uv # Python package manager
+sourcegraph/src-cli/src-cli
+minikube # useful for learning k8s
+helm
+argocd
+anomalyco/tap/opencode
+claude-code
+mermaid-cli
+tlrc # tldr package
+pyenv
+nvm
