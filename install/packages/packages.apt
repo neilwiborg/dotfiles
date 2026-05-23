@@ -5,4 +5,6 @@ fzf
 neovim
 zoxide
 zsh
-
+bat # better cat
+micro # better nano
+most # letter less
